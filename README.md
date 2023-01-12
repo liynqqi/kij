@@ -390,6 +390,19 @@ Settings-Secrets-Actions-下面Repository secrets有个USERS，点击小箭头�
 
 
 </br></br>
+
+
 开发&维护不易，如果此仓库对你的学习有帮助，你可以给我买瓶可乐来支持我维护下去（[点我支持](#赞助支持)），Thanks.
 
 😀😀😀😀😀
+
+
+
+
+
+## Project supported by JetBrains
+
+Many thanks to Jetbrains for kindly providing a license for me to work on this and other open-source projects.
+
+![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png)
+
