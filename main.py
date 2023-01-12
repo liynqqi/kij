@@ -280,9 +280,13 @@ if __name__ == '__main__':
             prepareSign(user)
         except Exception as e:
             print('工学云打卡失败，错误原因：' + str(e))
+            isNetworkError = 'HTTPSConnectionPool' in str(e)
+            m = '原因请查看下方错误信息，'
+            if isNetworkError:
+                m = '连接工学云服务器失败！'
             MessagePush.pushMessage('工学云打卡失败',
-                                    '工学云打卡失败, 可能是连接工学云服务器超时,但请别担心，' +
+                                    '工学云打卡失败, ' + m + '但请别担心，' +
                                     '中午11点以及晚上23点，我们会进行打卡检查，' +
-                                    '如未打卡则会自动补签（在打卡检查启用的情况下）。\n\n\n' +
-                                    '具体错误信息：' + str(e)
+                                    '如未打卡则会自动补签（在打卡检查启用的情况下）。' +
+                                    '\n\n\n具体错误信息：' + str(e)
                                     , user["pushKey"])
