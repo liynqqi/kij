@@ -398,11 +398,11 @@ Settings-Secrets-Actions-下面Repository secrets有个USERS，点击小箭头�
 
 
 
-
+</br></br></br></br>
 
 ## Project supported by JetBrains
 
 Many thanks to Jetbrains for kindly providing a license for me to work on this and other open-source projects.
 
-![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png)
+[![](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=https://github.com/XuanRanDev/Auto-GongXueYun)
 
