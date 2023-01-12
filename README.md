@@ -388,17 +388,7 @@ Settings-Secrets-Actions-下面Repository secrets有个USERS，点击小箭头�
 ![e87a1043ea8f4fada3bb99ba8e35767.jpg](https://tc.xuanran.cc/2022/12/02/d1b00d4d20886.jpg)
 
 
-
 </br></br>
-
-
-开发&维护不易，如果此仓库对你的学习有帮助，你可以给我买瓶可乐来支持我维护下去（[点我支持](#赞助支持)），Thanks.
-
-😀😀😀😀😀
-
-
-
-</br></br></br></br>
 
 ## Project supported by JetBrains
 
